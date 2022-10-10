@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd kaggle_space_titanic
+poetry run python3 main.py
